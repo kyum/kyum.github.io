@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posties on PwszTV</title>
-    <link>pwsztv.pl/posty/</link>
+    <link>http://pwsztv.pl/posty/</link>
     <description>Recent content in Posties on PwszTV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     <copyright>&amp;copy; PwszTV. Wszystkie prawa zastrzeżone.</copyright>
     <lastBuildDate>Fri, 07 Oct 2016 15:07:37 +0200</lastBuildDate>
-    <atom:link href="pwsztv.pl/posty/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pwsztv.pl/posty/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Inauguracja Roku Akademickiego 2016/2017</title>
-      <link>/pwsztv.pl/posty/inauguracja/</link>
+      <link>http://pwsztv.pl/posty/inauguracja/</link>
       <pubDate>Fri, 07 Oct 2016 15:07:37 +0200</pubDate>
       
-      <guid>/pwsztv.pl/posty/inauguracja/</guid>
+      <guid>http://pwsztv.pl/posty/inauguracja/</guid>
       <description>&lt;p&gt;2 października br. w Państwowej Wyższej Szkole Zawodowej w Chełmie uroczyście zainaugurowano szesnasty rok akademicki.
 Uroczystości, tradycyjnie rozpoczęły się dzień wcześniej nabożeństwem w cerkwi p.w. Jana Teologa w Chełmie.
 Główne obchody w dniu 2 października br. poprzedziła msza św. w Bazylice NNMP w intencji społeczności akademickiej. Po mszy studenci, kadra i goście przy asyście orkiestry dętej przemaszerowali do Auli Instytutu Neofilologii.&lt;/p&gt;
