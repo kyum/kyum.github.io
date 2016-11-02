@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PwszTV</title>
-    <link>/</link>
+    <link>pwsztv.pl/</link>
     <description>Recent content on PwszTV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     <copyright>&amp;copy; PwszTV. Wszystkie prawa zastrzeżone.</copyright>
     <lastBuildDate>Fri, 07 Oct 2016 15:07:37 +0200</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="pwsztv.pl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Inauguracja Roku Akademickiego 2016/2017</title>
-      <link>/posty/inauguracja/</link>
+      <link>/pwsztv.pl/posty/inauguracja/</link>
       <pubDate>Fri, 07 Oct 2016 15:07:37 +0200</pubDate>
       
-      <guid>/posty/inauguracja/</guid>
+      <guid>/pwsztv.pl/posty/inauguracja/</guid>
       <description>&lt;p&gt;2 października br. w Państwowej Wyższej Szkole Zawodowej w Chełmie uroczyście zainaugurowano szesnasty rok akademicki.
 Uroczystości, tradycyjnie rozpoczęły się dzień wcześniej nabożeństwem w cerkwi p.w. Jana Teologa w Chełmie.
 Główne obchody w dniu 2 października br. poprzedziła msza św. w Bazylice NNMP w intencji społeczności akademickiej. Po mszy studenci, kadra i goście przy asyście orkiestry dętej przemaszerowali do Auli Instytutu Neofilologii.&lt;/p&gt;
@@ -26,20 +26,20 @@ Główne obchody w dniu 2 października br. poprzedziła msza św. w Bazylice NN
     
     <item>
       <title>Kontakt</title>
-      <link>/strony/contact/</link>
+      <link>/pwsztv.pl/strony/contact/</link>
       <pubDate>Sun, 15 May 2016 16:22:59 +0200</pubDate>
       
-      <guid>/strony/contact/</guid>
+      <guid>/pwsztv.pl/strony/contact/</guid>
       <description>&lt;p&gt;email: pwszchelmtv(at)gmail.com&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>O nas</title>
-      <link>/strony/about/</link>
+      <link>/pwsztv.pl/strony/about/</link>
       <pubDate>Sun, 15 May 2016 16:22:59 +0200</pubDate>
       
-      <guid>/strony/about/</guid>
+      <guid>/pwsztv.pl/strony/about/</guid>
       <description>&lt;p&gt;O nas&lt;/p&gt;
 </description>
     </item>

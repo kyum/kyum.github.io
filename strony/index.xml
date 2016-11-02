@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stronies on PwszTV</title>
-    <link>/strony/</link>
+    <link>pwsztv.pl/strony/</link>
     <description>Recent content in Stronies on PwszTV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     <copyright>&amp;copy; PwszTV. Wszystkie prawa zastrzeżone.</copyright>
     <lastBuildDate>Sun, 15 May 2016 16:22:59 +0200</lastBuildDate>
-    <atom:link href="/strony/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="pwsztv.pl/strony/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kontakt</title>
-      <link>/strony/contact/</link>
+      <link>/pwsztv.pl/strony/contact/</link>
       <pubDate>Sun, 15 May 2016 16:22:59 +0200</pubDate>
       
-      <guid>/strony/contact/</guid>
+      <guid>/pwsztv.pl/strony/contact/</guid>
       <description>&lt;p&gt;email: pwszchelmtv(at)gmail.com&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>O nas</title>
-      <link>/strony/about/</link>
+      <link>/pwsztv.pl/strony/about/</link>
       <pubDate>Sun, 15 May 2016 16:22:59 +0200</pubDate>
       
-      <guid>/strony/about/</guid>
+      <guid>/pwsztv.pl/strony/about/</guid>
       <description>&lt;p&gt;O nas&lt;/p&gt;
 </description>
     </item>
